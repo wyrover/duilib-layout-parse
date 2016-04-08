@@ -1,0 +1,1 @@
+cscript.exe duilib_layout_parse.vbs "d:\project\layout\main_frm.xml"
